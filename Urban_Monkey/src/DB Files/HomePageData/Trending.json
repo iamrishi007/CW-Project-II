@@ -1,0 +1,28 @@
+{
+     "products": [
+          {
+               "id": 1,
+               "title": "FNKY MNKY",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/fnky-mnky-hoodie-02.jpg?v=1707299368&width=330",
+               "price": "RS.1,850.00"
+          },
+          {
+               "id": 2,
+               "title": "Y2K HIP HOP JEANS // 003",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/Copyof2J2A6196_1.jpg?v=1706862487&width=330",
+               "price": "RS.1,800.00"
+          },
+          {
+               "id": 3,
+               "title": "CITY BACKPACK // BLACK",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/city-backpack-black-01.jpg?v=1706936841&width=400",
+               "price": "RS.3,250.00"
+          },
+          {
+               "id": 4,
+               "title": "EAST COAST // 004",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/products/east-coast-004-01.jpg?v=1680171361&width=400",
+               "price": "RS.1,600.00"
+          }
+     ]
+}

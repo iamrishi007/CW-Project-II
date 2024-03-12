@@ -1,0 +1,52 @@
+{
+     "products": [
+          {
+               "id": 1,
+               "title": "RIPSTOP CARGO PANTS ",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/ripstop-cargo-pants-black-05.jpg?v=1709714061&width=330",
+               "price": "RS.2,850.00"
+          },
+          {
+               "id": 2,
+               "title": "RETRO BEAT ",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/mtv-um-retro-beat-blue-tshirt-model-05.jpg?v=1709117472&width=330",
+               "price": "RS.1,200.00"
+          },
+          {
+               "id": 3,
+               "title": "MTV X UM // LOFI",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/mtv-um-lofi-offwhite-tshirt-model-05.jpg?v=1709117523&width=330",
+               "price": "RS.1,200.00"
+          },
+          {
+               "id": 4,
+               "title": "RIPSTOP CARGO SHORTS // BLACK",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/IMG-2762.jpg?v=1708143286&width=330",
+               "price": "RS.2,350.00"
+          },
+          {
+               "id": 5,
+               "title": "2 PAIRS // LAZY + CATS SOCKS",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/cat-socks-image-10.jpg?v=1708934335&width=330",
+               "price": "RS.799.00"
+          },
+          {
+               "id": 6,
+               "title": "MTV X UM // GROOVE",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/mtv-um-groove-baseball-cap-01.jpg?v=1704959475&width=400",
+               "price": "RS.1,200.00"
+          },
+          {
+               "id": 7,
+               "title": "RELAXED STRAIGHT-CUT TRACK PANTS",
+               "img": "https://www.urbanmonkey.com/cdn/shop/files/mtv-um-wavey-baby-tshirt-model-05.jpg?v=1709195579&width=330",
+               "price": "RS.1,200.00"
+          },
+          {
+               "id": 8,
+               "title": "MTV X UM // PLAYLIST",
+               "img": "https://cdn.shopify.com/s/files/1/0661/7423/files/mtv-um-playlist-baseball-cap-02.jpg?v=1708423119&width=400",
+               "price": "RS.1,200.00"
+          }
+     ]
+}

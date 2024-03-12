@@ -1,0 +1,79 @@
+#trend {
+     /* border: 1px solid red; */
+     width: 85%;
+     margin: 40px auto;
+     text-align: center;
+}
+
+.pro-img {
+     display: grid;
+     grid-template-columns: repeat(4, 1fr);
+     justify-content: space-evenly;
+}
+
+.btn {
+     width: 90%;
+     height: 35px;
+     font-size: 16px;
+     border-radius: 12px;
+     background-color: black;
+     color: whitesmoke;
+}
+
+.img {
+     /* border: 1px solid red; */
+     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
+
+.img>img {
+     height: 360px;
+     width: 280px;
+}
+
+.view-all {
+     /* border-radius: 8px; */
+     height: 32px;
+     width: 15%;
+     text-align: center;
+     margin: 20px auto;
+     /* border: 1px solid hotpink; */
+
+}
+
+.view-all>button {
+     color: white;
+     background-color: black;
+     border-radius: 12px;
+     height: 100%;
+     width: 100%;
+     border: none;
+}
+
+.group-img {
+     /* border: 1px solid red; */
+}
+
+.boys-img>img {
+     width: 783px;
+     height: 410px;
+}
+
+#collaboratoin {
+     margin: 10px auto;
+     /* border: 1px solid red; */
+     margin: 10px auto;
+
+}
+
+.collaboratoin-img {
+     display: grid;
+     grid-template-columns: repeat(5, 1fr);
+     justify-content: space-evenly;
+     gap: 10px;
+     padding: 5px;
+}
+
+.collaboratoin-img>div>img {
+     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}

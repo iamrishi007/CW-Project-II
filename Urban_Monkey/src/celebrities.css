@@ -1,0 +1,29 @@
+#Celebrities {
+     width: 80%;
+     /* border: 1px solid red; */
+     margin: 30px auto;
+     text-align: center;
+}
+
+.Celebrities-items {
+     display: grid;
+     grid-template-columns: repeat(4, 1fr);
+     justify-content: space-evenly;
+     gap: 20px;
+     width: 100%;
+     text-align: center;
+     margin: 10px auto;
+     text-align: center;
+     padding: 5px;
+
+}
+
+.Celebrities-items>div>img {
+     width: 280px;
+     height: 320px;
+     
+}
+
+.Celebrities-items>div {
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
