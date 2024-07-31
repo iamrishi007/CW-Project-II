@@ -7,5 +7,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- <img src="https://github.com/iamrishi007/Cora-Website/blob/main/readme.img/Screenshot%202023-12-01%20004919.png" alt="">
+- <img src="[https://github.com/iamrishi007/Cora-Website/blob/main/readme.img/Screenshot%202023-12-01%20004919.png](https://github.com/iamrishi007/CW-Project-II/blob/main/Urban_Monkey/urbon.png)" alt="">
 
