@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 - <img src="https://github.com/iamrishi007/CW-Project-II/blob/main/Urban_Monkey/urbon.png" alt="">
 
+
+*Implemented seamless user sign-up and log-in functionalities using React.js and Chakra UI for improved user experience.*
+*Designed and developed intuitive navigation features, ensuring easy and efficient user exploration of the e-commerce site.*
+*Applied modern design principles to ensure a clean, accessible interface that enhances the overall user journey.*
